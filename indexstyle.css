@@ -8,7 +8,7 @@ h1 {
   margin-top: 2%;
 }
 p {
-  color: #4b0082;
+  color: #444;
   font-size: 90%;
   text-align: center;
   margin-top: 0;
@@ -134,4 +134,10 @@ main {
   padding: 200%;
   background-color: var(--color-tertiary);
   color: var(--color-primary);
+}
+
+footer p {
+  font-size: 70%;
+  font-style: italic;
+  color: #4b0082;
 }
