@@ -134,3 +134,8 @@ main {
   background-color: var(--color-tertiary);
   color: var(--color-primary);
 }
+
+footer p {
+  font-size: 70%;
+  font-style: italic;
+}
