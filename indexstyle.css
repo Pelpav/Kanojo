@@ -1,3 +1,19 @@
+body {
+  background-color: #f6d2e1;
+}
+h1 {
+  color: #dc143c;
+  text-align: center;
+  font-size: 110%;
+  margin-top: 2%;
+}
+p {
+  color: #4b0082;
+  font-size: 90%;
+  text-align: center;
+  margin-top: 0;
+}
+
 /* Reset des styles */
 * {
   margin: 0;
@@ -14,11 +30,13 @@
   --color-link: #ffffff; /* Blanc */
 }
 
+header h1 {
+  margin-top: 0%;
+}
+
 /* Typographie */
 body {
   font-family: Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.4;
 }
 
 h1,
@@ -27,17 +45,20 @@ h3 {
   font-weight: bold;
 }
 
-h1 {
-  font-size: 2.5rem;
-}
-
 h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  font-size: 100%;
+  margin-bottom: 1%;
 }
 
 p {
-  margin-bottom: 1rem;
+  margin-bottom: 3%;
+  line-height: 1.5;
+}
+
+.container {
+  width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
 /* En-tête */
@@ -51,7 +72,7 @@ header {
 }
 
 nav {
-  max-width: 800px;
+  max-width: 800%;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -61,8 +82,9 @@ nav {
 nav a {
   color: var(--color-link);
   text-decoration: none;
-  padding: 1rem;
+  padding: 10px;
   transition: color 0.3s ease;
+  color: var(--color-tertiary);
 }
 
 nav a:hover {
@@ -74,11 +96,9 @@ nav ul {
   display: flex;
 }
 
-nav h1 a {
-  font-size: 1.8rem;
-  color: var(--color-tertiary);
+nav li {
+  font-size: 80%;
 }
-
 /* Pied de page */
 footer {
   background-color: var(--color-secondary);
@@ -86,14 +106,15 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50px;
+  height: 50%;
+  padding: 2%;
 }
 
 /* Mise en page générale */
 main {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 1rem;
+  max-width: 10000%;
+  margin: 0 0;
+  padding: 0;
 }
 
 .hero {
@@ -110,7 +131,7 @@ main {
 }
 
 .poems {
-  padding: 2rem;
+  padding: 200%;
   background-color: var(--color-tertiary);
   color: var(--color-primary);
 }
