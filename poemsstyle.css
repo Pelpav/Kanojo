@@ -4,7 +4,7 @@ body {
 h1 {
   color: #dc143c;
   text-align: center;
-  font-size: 130%;
+  font-size: 110%;
   margin-top: 2%;
 }
 p {
@@ -97,7 +97,7 @@ nav ul {
 }
 
 nav li {
-  font-size: 90%;
+  font-size: 80%;
 }
 /* Pied de page */
 footer {
