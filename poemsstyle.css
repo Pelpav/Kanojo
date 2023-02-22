@@ -8,7 +8,7 @@ h1 {
   margin-top: 2%;
 }
 p {
-  color: #4b0082;
+  color: #444;
   font-size: 100%;
   text-align: center;
   margin-top: 2%;
@@ -138,4 +138,5 @@ main {
 footer p {
   font-size: 70%;
   font-style: italic;
+  color: #4b0082;
 }
