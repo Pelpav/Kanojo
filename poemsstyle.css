@@ -167,6 +167,7 @@ h6 {
 
 .pagination a:hover {
   background-color: #ddd;
+  color: #666;
 }
 
 .pagination .previous {
@@ -182,6 +183,6 @@ body h1 {
   text-align: left;
 }
 
-body a:hover {
+body a:hover h1 {
   color: var(--color-quaternary);
 }
