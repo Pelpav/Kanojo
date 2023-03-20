@@ -1,8 +1,5 @@
 body {
-  background-image: url("Images/Coeur_avec_mains.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-color: #f6d2e1;
 }
 h1 {
   color: #dc143c;
@@ -119,6 +116,10 @@ main {
   max-width: 10000%;
   margin: 0 0;
   padding: 0;
+  background-image: url("Images/Coeur_avec_mains.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .hero {
