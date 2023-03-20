@@ -134,10 +134,7 @@ main {
 
 .poems {
   padding: 200%;
- background-image: url("Images/Coeur_avec_mains.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+ background-color: var(--color-tertiary);
   color: var(--color-primary);
 }
 footer {
