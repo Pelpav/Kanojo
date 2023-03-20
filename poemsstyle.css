@@ -114,9 +114,17 @@ footer {
 
 /* Mise en page générale */
 main {
-  max-width: 800%;
-  margin: 0 auto;
+  margin: 0;
   padding: 1rem;
+  background-image: url("Images/Coeur_avec_mains.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  max-height: 100%;
+  display: block;
 }
 
 .hero {
@@ -134,7 +142,7 @@ main {
 
 .poems {
   padding: 200%;
- background-color: var(--color-tertiary);
+  background-color: var(--color-tertiary);
   color: var(--color-primary);
 }
 footer {
