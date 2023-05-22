@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nos Souvenirs Me Ressourcent</title>
+    <link href="/poemsstyle.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <nav>
+          <h1><a href="/index.html">Kiki ❤ Elpav</a></h1>
+          <ul>
+            <li><a href="/index.html">Accueil </a></li>
+            <li><a href="/about.html">À propos </a></li>
+            <li><a href="/poems.html">Poèmes </a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <h1 style="text-align: center; color: #dc143c">
+      Nos Souvenirs Me Ressourcent
+    </h1>
+
+    <p>
+      Quand la solitude se fait ressentir,<br />
+      Et que ton absence se fait trop sentir,<br />
+      Je me plonge dans les souvenirs,<br />
+      Pour trouver un peu de réconfort et sourire.<br /><br />
+
+      Les moments passés à tes côtés,<br />
+      Comme des trésors précieusement gardés,<br />
+      Ils deviennent des étoiles dans la nuit,<br />
+      Qui illuminent mes pensées, même dans l'oubli.<br /><br />
+
+      Je me rappelle de ces doux instants,<br />
+      Où nos rires résonnaient tendrement,<br />
+      Nos mains entrelacées, nos regards complices,<br />
+      Chaque souvenir est un baume qui apaise mes peines.<br /><br />
+
+      Les souvenirs deviennent mon refuge,<br />
+      Dans ces moments de solitude qui m'envahissent,<br />
+      Ils me rappellent que notre histoire est belle,<br />
+      Et qu'à distance, notre amour étincelle.<br /><br />
+
+      Alors je me plonge dans ces souvenirs,<br />
+      Comme un voyage dans le temps qui respire,<br />
+      Ils me rappellent que notre amour est fort,<br />
+      Et qu'à travers les distances, il perdure encore.<br /><br />
+
+      Alors je garde ces souvenirs précieusement,<br />
+      Comme des trésors qui me guident tendrement,<br />
+      Ils m'apportent la chaleur de ton étreinte,<br />
+      Et me rappellent que notre amour n'a pas de contrainte.<br /><br />
+
+      Ainsi, quand la solitude se fait sentir,<br />
+      Je me laisse bercer par nos souvenirs,<br />
+      Et je sais qu'à travers la distance qui nous sépare,<br />
+      Notre amour est là, vibrant et sincère.<br /><br />
+
+      Car les souvenirs deviennent notre force,<br />
+      Un lien qui unit nos cœurs avec une douce écorce,<br />
+      Et malgré la distance qui nous éloigne parfois,<br />
+      Notre amour grandit, toujours plus fort, chaque jour qui passe.<br />
+    </p>
+
+    <div class="pagination">
+      <a href="P49.html" class="previous">&laquo; Page précédente</a>
+      <a href="#" class="next">Page suivante &raquo;</a>
+    </div>
+
+    <footer>
+      <p>
+        <br />
+        <br />Droits d'auteur © 2023 Christian et Kiné. Tous droits réservés.
+      </p>
+    </footer>
+  </body>
+</html>
